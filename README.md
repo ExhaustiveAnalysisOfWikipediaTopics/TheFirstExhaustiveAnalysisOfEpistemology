@@ -29,4 +29,8 @@ The idea that pure deduction exists is non-sensical. Deductiion and natural lang
   * reproducibility crisis
   * the scientific method
 
+[A posteriori/ A priori](https://en.wikipedia.org/wiki/A_priori_and_a_posteriori):
+TODO
+
+
 
