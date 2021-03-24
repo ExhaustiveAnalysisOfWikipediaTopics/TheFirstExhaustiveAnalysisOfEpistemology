@@ -36,6 +36,7 @@ This analytical essay summary has no value beyond truisms 0/20
 [A Treatise Concerning the Principles of Human Knowledge](https://en.wikipedia.org/wiki/A_Treatise_Concerning_the_Principles_of_Human_Knowledge):
 I have stopped reading at the introduction, classical intellectual vomit about the nature of reality (here a world of ideas having the appearance of order (physics) thanks to.. god). Maybe that Berkeley should have read "A defense of Common Sense".. /s -10/20
 
+We are at 4/38 so 10.5% of the letter A
 Enough food for thoughts for today!
 
 
