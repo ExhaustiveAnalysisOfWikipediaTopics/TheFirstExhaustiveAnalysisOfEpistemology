@@ -17,7 +17,8 @@ But how can we know empirically the expected precision of an instrument or effec
 
 Empirical data must be analysed and put in perspective with other knowledges in order to maximally extract meaning from it.
 The idea that pure deduction exists is non-sensical. Deductiion and natural language in general is just manipulating empirical data with N indirections (through transitivity), with the added liberty that the brain allow itself to not be internally consistent, to fill missing data through (sometimes baseless) speculation and various other biases/heuristics, however with enough rigor it all reduce to empirical facts
- refer to:
+
+refer to:
   * reproducibility crisis
   * the scientific method
 
