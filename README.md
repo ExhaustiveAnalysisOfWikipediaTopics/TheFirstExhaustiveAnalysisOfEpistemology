@@ -9,7 +9,7 @@ The choosen coverage order is alphabetical instead of hierachical.
 Shall we begin:
 
 [A posteriori/Empirical evidence](https://en.wikipedia.org/wiki/Empirical_evidence):
-While understanding that all source of knowledge ( and associated meta-knowledge/verisimilitudes) eventually come down to experimental evidence, is mandatory (20/20) the article in itself (10/20) has many simplifications and ommissions so here is a rephrasing/correction:
+While { understanding that all source of knowledge ( and associated meta-knowledge/verisimilitudes) eventually come down to experimental evidence, } is mandatory (20/20) the article in itself (10/20) has many simplifications and ommissions so here is a rephrasing/correction:
 Empirical data comes either from sensorial data (~qualias from any living being) or from Instruments. This imply that advances in either psychometrics and *metrology* (and even data storage, validation, processing and retrieval) can enable leap in mankind progress.
 
 However, Empirical data != empirical evidence. The expected verisimilitude of a data that has been measured is a direct product of the already known/expected precision of the instrument (be it a biological sensor or a regular instrument). Moreover, contextual things can alter the precision e.g sensorial illusions, biases, and mechanical illusions. Finally, where applicable, a statistical distribution should be plotted. 
