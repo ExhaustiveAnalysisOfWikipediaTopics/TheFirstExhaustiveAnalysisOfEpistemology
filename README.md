@@ -38,6 +38,7 @@ I have stopped reading at the introduction, classical intellectual vomit about t
 
 We are at 4/38 so 10.5% of the letter A
 Enough food for thoughts for today!
+
 edit: today I will not cover more of this topic today however this new analysis my also interest you https://github.com/ExhaustiveAnalysisOfWikipediaTopics/TheFirstExhaustiveAnalysisOfEffects
 
 
